@@ -1,5 +1,6 @@
 # wrangler.toml
-name = "awesome-proxy"                     # Replace with your Worker name
+# wrangler.toml
+name = 'colbat'                  # Replace with your Worker name
 main = "start.mjs"                       # Entry point of your Worker
 compatibility_date = "2025-12-02"       # Set to today or a fixed date
 type = "javascript"                     # "javascript" or "webpack" depending on your setup
